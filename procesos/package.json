@@ -1,0 +1,14 @@
+{
+  "name": "procesos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cam": "droidcam-cli 127.0.0.1 4747",
+    "midi": "~/midi-bind-streaming-keys"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

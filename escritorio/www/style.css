@@ -1,0 +1,16 @@
+body {
+	background-color: #333;
+	color: #c0c0c0;
+	text-align: center;
+	font-family: 'Arial', sans-serif;
+}
+
+h1 {
+	margin: 16px 0;
+}
+
+div {
+	border-bottom: 1px solid #c0c0c0;
+	margin: 16px 0;
+	padding-bottom: 32px;
+}

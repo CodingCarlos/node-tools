@@ -1,0 +1,19 @@
+{
+  "name": "escritorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron --trace-warnings index.js",
+    "cam": "droidcam-cli 127.0.0.1 4747",
+    "midi": "~/midi-bind-streaming-keys",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^11.1.0"
+  }
+}
